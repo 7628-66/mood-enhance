@@ -1,0 +1,4 @@
+pyjokes
+openai
+pytest
+streamlit
