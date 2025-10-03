@@ -1,9 +1,13 @@
 # Mood Booster App
 
-A tiny interactive CLI and Streamlit web app for boosting mood with jokes, affirmations, and song suggestions. Supports three AI modes:
-- No AI (default, free, offline)
-- Offline simulated AI (predefined curated lines)
-- Real AI (OpenAI API, optional and guarded)
+![CI](https://github.com/7628-66/mood-enhance/actions/workflows/ci.yml/badge.svg)
+
+A tiny interactive CLI and Streamlit web app for boosting mood with jokes, affirmations, and song suggestions.
+
+AI Modes:
+- No AI (default, fully offline)
+- Offline simulated AI (curated JSON pool)
+- Real AI (OpenAI API, optional & guarded)
 
 ## New AI Modes & Controls
 CLI Flags:
